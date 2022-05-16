@@ -45,8 +45,8 @@ import com.wf.hackathon2022.whatsappnpvp.model.UserParam;
 
 @Controller
 public class WhatsAppController {
-	 public static final String ACCOUNT_SID = "AC788ea0b506ec5b925ae494xxcbd02c2a0e";//Shivaprasadmohanrao
-	 public static final String AUTH_TOKEN =  "e0d06e7b964c47b42733b0xxa99c25def3"; //Shivaprasadmohanrao
+	 public static final String ACCOUNT_SID = "AC788ea0b506ec5b925ae494cbd02c2a0e";//Shivaprasadmohanrao
+	 public static final String AUTH_TOKEN =  "e0d06e7b964c47b42733b0a99c25def3"; //Shivaprasadmohanrao
 	 public Map<String, Long> userSessionInfo = new HashMap<>(); 
 	 private boolean newSession = true;
 	
